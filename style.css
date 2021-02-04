@@ -1,0 +1,100 @@
+.top{
+    background-color:#abf0e9;
+    position:relative;
+    padding-top:100px;
+}
+body{
+    margin:0px;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+    font-size:2rem;
+    
+}
+h1{
+    
+    font-family: 'Sacramento', cursive;
+     /*90px=5.625em*/
+   /* width:10%;
+    margin:0 auto 0 auto;*/
+    margin:50px auto 0 auto;
+    color:#66BFBF;
+   /* line-height: 2;*/
+   
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color:#66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+
+.middle
+{
+    align:"center";
+  
+}
+.bottom
+{
+    align:"center";
+}
+
+.pro
+{
+    text-decoration:underline;
+}
+.bottom-cloud{
+    position:absolute;
+  
+    left:300px;
+    right:300px;
+    
+}
+.top-cloud
+{
+    position:absolute;
+    right:300px;
+    top:50px;
+
+}
+.me{
+    width:200px;
+    height:200px;
+    padding:20px;
+    border-radius:50%;
+    
+}
+.watch
+{
+    width:200px;
+    height:300px;
+    width:25%;
+    float:left;
+    margin-right:30px;
+}
+.heading{
+    color:#11999E;
+    font-weight:normal;
+}
+a{
+    color:#11999E;
+}
+.skill-row
+{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+}
+.food{
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
+/*.code-skill{
+    clear:left;
+}
+.skill-column{
+    clear:right;
+}*/
